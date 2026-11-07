@@ -20,10 +20,5 @@ Marketplace de NFTs moderno desenvolvido em React, TypeScript, Vite e Tailwind C
 - **MSW (Mock Service Worker)** + `@mswjs/socket.io-binding` (Simulação de API REST e WebSockets)
 
 ## 📦 Como Executar o Projeto Localmente
+npm run dev
 
-1. Clone o repositório:
-
-   ```bash
-   git clone [https://github.com/w-s-wesleysantana/Eletronicos-GW.git](https://github.com/w-s-wesleysantana/Eletronicos-GW.git)
-   ```
-# NFT-Marketplace
